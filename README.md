@@ -28,6 +28,6 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkrysio&theme=highcontrast" alt="coderkrysio" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkrysio&show_icons=true&theme=highcontrast&locale=en" alt="coderkrysio" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderkrysio&show_icons=true&theme=highcontrast&locale=en" alt="coderkrysio" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkrysio&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="coderkrysio" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=coderkrysio&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="coderkrysio" /></p>
