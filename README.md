@@ -16,10 +16,10 @@
 
 # 🌐 Connect with me:
 <p align="left">
-<a href="https://twitter.com/anu2jai6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anu2jai6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anushree-jaiswal-6a2937227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushree-jaiswal-6a2937227" height="30" width="40" /></a>
+<a href="https://twitter.com/coderKrysio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anu2jai6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/coderKrysio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushree-jaiswal-6a2937227" height="30" width="40" /></a>
 <a href="https://medium.com/@anushreejaiswal26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anushreejaiswal26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anushree_1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushree_1026" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coderKrysio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushree_1026" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools:
