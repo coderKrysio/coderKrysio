@@ -12,7 +12,5 @@ Also known as coderKrysio, a web developer based in Prayagraj, India. With exper
 
 ---
 
-<a href="https://twitter.com/coderKrysio" target="blank">Twitter</a> | 
-<a href="https://linkedin.com/in/coderKrysio" target="blank">LinkedIn</a> |
 <a href="https://medium.com/@anushreejaiswal26" target="blank">Medium</a> |
 <a href="https://www.leetcode.com/coderKrysio" target="blank">LeetCode</a>
