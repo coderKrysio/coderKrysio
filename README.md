@@ -21,6 +21,12 @@ My tech stack includes a diverse array of tools and technologies. I thrive in th
 
 ---
 
+### Badges:
+
+[![An image of @jbmugundh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkrysio)](https://www.holopin.io/@coderkrysio)
+
+---
+
 ### Stats:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkrysio&theme=highcontrast" alt="coderkrysio" /></p>
