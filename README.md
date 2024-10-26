@@ -25,7 +25,14 @@ My tech stack includes a diverse array of tools and technologies. I thrive in th
 
 [![An image of @coderKrysio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkrysio)](https://www.holopin.io/@coderkrysio)
 
-[![Postman API Fundamentals Student Expert](https://media.badgr.com/uploads/badges/assertion-NJuXY2pySUyBahsFi2sYgg.png?versionId=V2aGB71FCpInQwEGGyHKaMVHxSE6.x_7)](https://api.badgr.io/public/assertions/NJuXY2pySUyBahsFi2sYgg)
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://github.com/coderKrysio/Postman-Challenge/blob/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://github.com/coderKrysio/Postman-Challenge/blob/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://github.com/coderKrysio/Postman-Challenge/blob/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://github.com/coderKrysio/Postman-Challenge/blob/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://github.com/coderKrysio/Postman-Challenge/blob/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://github.com/coderKrysio/Postman-Challenge/blob/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
 
 ---
 
