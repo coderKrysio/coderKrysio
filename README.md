@@ -23,7 +23,9 @@ My tech stack includes a diverse array of tools and technologies. I thrive in th
 
 ### Badges:
 
-[![An image of @jbmugundh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkrysio)](https://www.holopin.io/@coderkrysio)
+[![An image of @coderKrysio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkrysio)](https://www.holopin.io/@coderkrysio)
+
+[![Postman API Fundamentals Student Expert](https://media.badgr.com/uploads/badges/assertion-NJuXY2pySUyBahsFi2sYgg.png?versionId=V2aGB71FCpInQwEGGyHKaMVHxSE6.x_7)](https://api.badgr.io/public/assertions/NJuXY2pySUyBahsFi2sYgg)
 
 ---
 
